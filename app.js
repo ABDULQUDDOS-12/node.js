@@ -18,4 +18,8 @@
 // console.log(data.singleperson.name)
 
 //mind grenade
-require('./_7mindGrenade')
+// require('./_7mindGrenade')
+
+
+
+
