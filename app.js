@@ -13,9 +13,9 @@
 // sayHi('susan')
 // sayHi(names.john)
 // sayHi(names.peter)
-// const data = require('./alternativeflavour')
-// console.log(data.items[0])
-// console.log(data.singleperson.name)
+const data = require('./alternativeflavour')
+console.log(data.items[0])
+console.log(data.singleperson.name)
 
 //mind grenade
 // require('./_7mindGrenade')
